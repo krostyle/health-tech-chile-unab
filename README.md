@@ -1,6 +1,6 @@
 # HealthTech Chile
 
-HealthTech Chile es una plataforma de gestión de salud integral diseñada para mejorar la experiencia de los pacientes y optimizar los procesos de atención médica en Chile.
+HealthTech Chile es una plataforma de gestión de salud integral diseñada para mejorar la experiencia de los pacientes y optimizar los procesos de atención médica en Chile. Este proyecto es parte de un trabajo académico para la Universidad Andrés Bello (UNAB).
 
 ## Características principales
 
@@ -23,12 +23,12 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
    ```
-   git clone https://github.com/tu-usuario/healthtech-chile.git
+   git clone https://github.com/krostyle/health-tech-chile-unab.git
    ```
 
 2. Instala las dependencias:
    ```
-   cd healthtech-chile
+   cd health-tech-chile-unab
    npm install
    ```
 
@@ -46,3 +46,10 @@ Las contribuciones son bienvenidas. Por favor, lee las guías de contribución a
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## Autores
+
+- Diego Bustamante
+- Erick Espínola
+- Francisco Muñoz
+
