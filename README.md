@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HealthTech Chile
 
-## Getting Started
+HealthTech Chile es una plataforma de gestión de salud integral diseñada para mejorar la experiencia de los pacientes y optimizar los procesos de atención médica en Chile.
 
-First, run the development server:
+## Características principales
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Registro y autenticación de usuarios
+- Resumen del paciente con información personal y médica
+- Gestión de citas médicas y telemedicina
+- Seguimiento de medicamentos y exámenes médicos
+- Integración con diferentes previsiones de salud
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tecnologías utilizadas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Next.js](https://nextjs.org/) - Framework de React para el desarrollo web
+- [TypeScript](https://www.typescriptlang.org/) - Superset tipado de JavaScript
+- [Tailwind CSS](https://tailwindcss.com/) - Framework de CSS para diseño rápido y responsivo
+- [Shadcn UI](https://ui.shadcn.com/) - Componentes de UI reutilizables y personalizables
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Comenzando
 
-## Learn More
+Para ejecutar el proyecto localmente, sigue estos pasos:
 
-To learn more about Next.js, take a look at the following resources:
+1. Clona el repositorio:
+   ```
+   git clone https://github.com/tu-usuario/healthtech-chile.git
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. Instala las dependencias:
+   ```
+   cd healthtech-chile
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+3. Inicia el servidor de desarrollo:
+   ```
+   npm run dev
+   ```
 
-## Deploy on Vercel
+4. Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver la aplicación.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contribuir
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Las contribuciones son bienvenidas. Por favor, lee las guías de contribución antes de enviar un pull request.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
